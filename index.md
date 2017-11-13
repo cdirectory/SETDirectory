@@ -25,7 +25,7 @@ UX Beijing Meetup | A group where people can talk about user experience! | Add P
 
 Name | Goal | How to join
 ------------ | ------------- | -------------
-BeiArea | A group of people committed to promoting Beijing as a place like the Bay Area | Find someone already in it
+BeiArea | Network of Beijingers who help and answer questions as a community | Find someone already in it
 CHat | A group that talks about Wechat all day long | Find someone already in it
 
 ***
