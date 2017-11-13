@@ -33,8 +33,9 @@ CHat | A group that talks about Wechat all day long | Find someone already in it
 
 Name | Goal | How to join
 ------------ | ------------- | -------------
-Walk The Chat | Learn about new stuff related to Wechat | Follow walkthechat
-China Channel | Helps people understand Wechat | Follow China-Channel
+Walk The Chat | Learn about new stuff related to Wechat | Follow "walkthechat"
+China Channel | Helps people understand Wechat | Follow "China-Channel"
+LetsDayDayUp | Follow events from DayDayUp | Follow "LetsDayDayUpNow"
 
 
 ### Support or Contact
