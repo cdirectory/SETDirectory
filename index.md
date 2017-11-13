@@ -13,6 +13,7 @@ Our goals are to:
 
 Name | Goal | Join button
 ------------ | ------------- | -------------
+French Tech Beijing | The French Tech Hub Beijing aims to gather the whole tech ecosystem of the city. They host regular events on trending tech topics and entrepreneurship. |  [Join group](https://github.com/contact)
 Startup Grind | Something about Startup Grind | [Join group](https://github.com/contact)
 Jing Jobs | Something about Jing Jobs | [Join group](https://github.com/contact)
 UX Beijing Meetup | A group where people can talk about user experience! | Add Pine on wechat: mepine
