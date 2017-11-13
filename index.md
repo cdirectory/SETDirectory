@@ -8,12 +8,15 @@ Our goals are to:
 - enable group organizers to create partnerships, and better manage their communities
 - enable everyone to do better work in Beijing
 
+
 ### The list
 
 Name | Goal | Join button
 ------------ | ------------- | -------------
 Startup Grind | Something about Startup Grind | [Join group](https://github.com/contact)
 Jing Jobs | Something about Jing Jobs | [Join group](https://github.com/contact)
+UX Beijing Meetup | A group where people can talk about user experience! | Add Pine on wechat: mepine
+
 
 
 
