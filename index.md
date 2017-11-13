@@ -8,8 +8,8 @@ Our goals are to:
 - enable everyone to do better work in Beijing
 
 
-### The List
-
+### The Lists
+***
 #### The Public Groups
 
 Name | Goal | How to join
@@ -20,14 +20,14 @@ Startup Grind | Something about Startup Grind | [Join group](https://github.com/
 Jing Jobs | Something about Jing Jobs | [Join group](https://github.com/contact)
 UX Beijing Meetup | A group where people can talk about user experience! | Add Pine on wechat: mepine
 
-
+***
 #### The Semi-Public Groups (find yourself someone to recommend you)
 
 Name | Goal | How to join
 ------------ | ------------- | -------------
 BeiArea | A group of people committed to promoting Beijing as a place like the Bay Area | Find someone already in it
 
-
+***
 ### Wechat Public Accounts to follow
 
 Name | Goal | How to join
