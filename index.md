@@ -1,4 +1,4 @@
-## Welcome to a simple directory of Startup,Entrepreneurship, and Tech wechat groups
+## Welcome to a simple directory of Startup, Entrepreneurship, and Tech Wechat groups in Beijing
 
 
 We have compiled a list of Wechat groups that are related to the startup, entrepreneurship and tech communities in Beijing.
@@ -8,30 +8,16 @@ Our goals are to:
 - enable group organizers to create partnerships, and better manage their communities
 - enable everyone to do better work in Beijing
 
-### Markdown
+### The list
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Name | Goal | Join button
+------------ | ------------- | -------------
+Startup Grind | Something about Startup Grind | [Join group](https://github.com/contact)
+Jing Jobs | Something about Jing Jobs | [Join group](https://github.com/contact)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Is your group missing? Have any other suggestions? 
+Contact us [here](https://github.com/contact) and we’ll help you sort it out.
