@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to a simple directory of Startup,Entrepreneurship, and Tech wechat groups
 
-You can use the [editor on GitHub](https://github.com/cdirectory/TES-directory/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have compiled a list of Wechat groups that are related to the startup, entrepreneurship and tech communities in Beijing.
+
+Our goals are to:
+- enable **you** to know what are the groups that exist, and how to join their wechat conversation
+- enable group organizers to create partnerships, and better manage their communities
+- enable everyone to do better work in Beijing
 
 ### Markdown
 
@@ -27,10 +31,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cdirectory/TES-directory/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
